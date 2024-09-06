@@ -9,7 +9,6 @@ This project implements a Generative Adversarial Network (GAN) to generate synth
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
