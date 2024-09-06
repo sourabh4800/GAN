@@ -40,7 +40,7 @@ This project uses a GAN to generate synthetic data based on the CICIDS-2017 data
 
 ## Usage
 
-1. Prepare the CICIDS-2018 dataset:
+1. Prepare the CICIDS-2017 dataset:
     - Download the dataset from [here](https://www.unb.ca/cic/datasets/ids-2017.html).
     - Place the CSV files in a directory, e.g., `/path/to/CICIDS2017`.
 
