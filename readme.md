@@ -1,4 +1,4 @@
-# GAN for CICIDS-2018 Dataset
+# GAN for CICIDS-2017 Dataset
 
 This project implements a Generative Adversarial Network (GAN) to generate synthetic data based on the CICIDS-2018 dataset. The GAN consists of a generator and a discriminator, which are trained together to produce realistic synthetic data.
 
