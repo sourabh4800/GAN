@@ -1,6 +1,6 @@
 # GAN for CICIDS-2017 Dataset
 
-This project implements a Generative Adversarial Network (GAN) to generate synthetic data based on the CICIDS-2018 dataset. The GAN consists of a generator and a discriminator, which are trained together to produce realistic synthetic data.
+This project implements a Generative Adversarial Network (GAN) to generate synthetic data based on the CICIDS-2017 dataset. The GAN consists of a generator and a discriminator, which are trained together to produce realistic synthetic data.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ This project implements a Generative Adversarial Network (GAN) to generate synth
 
 Generative Adversarial Networks (GANs) are a class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014. GANs consist of two neural networks, a generator and a discriminator, that compete against each other in a game. The generator tries to produce realistic data, while the discriminator tries to distinguish between real and fake data.
 
-This project uses a GAN to generate synthetic data based on the CICIDS-2018 dataset, which is a comprehensive dataset for network intrusion detection.
+This project uses a GAN to generate synthetic data based on the CICIDS-2017 dataset, which is a comprehensive dataset for network intrusion detection.
 
 ## Requirements
 
@@ -51,7 +51,7 @@ This project uses a GAN to generate synthetic data based on the CICIDS-2018 data
 
 3. Run the script:
     ```sh
-    python3 gan_cicids2018.py
+    python3 gan_cicids2017.py
     ```
 
 ## Results
