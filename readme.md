@@ -29,7 +29,7 @@ This project uses a GAN to generate synthetic data based on the CICIDS-2017 data
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/gan-cicids2017.git
+    git clone https://github.com/sourabh4800/GAN.git
     cd gan-cicids2017
     ```
 
